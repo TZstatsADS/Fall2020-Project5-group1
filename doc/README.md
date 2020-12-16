@@ -1,4 +1,7 @@
 # Project: 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+
+The project5main.ipynb and project5main.pdf files are our main report for this project which show the analysis of models
+
+ADS Stats 5243 Project 5 Group 1 presentation.pptx is the presentation file. 
