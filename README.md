@@ -11,9 +11,14 @@ Term: Fall 2020
 	+ Citina Liang
 	+ Wannian Lou
 	+ Jiaqi Yuan 
+	
 + Project summary: 
 
 Mobile phones bring tremendous convenience to everyone's life. However, as a mobile company owner, you cannot simply assume things in this competitive mobile phone market. In order to achieve a great boom in this industry, each buesiness should possess trenchant perception about existing products and developing business trend so that they could make a better price strategy amrketing plan. In this project, we want to find out some relation between features of a mobile phone (for example, RAM, Internal Memory) and its selling price (price range is a categorical variable ranking from 0 to 3 indicates from low price to very high price). Exploratory data analysis and model evaluations for several models including Logistic Regression, Decision Tree, Random Forest, Naive Bayes, LDA, QDA, SVM, KNN, Dense Neural Network and XGBoost are implemented. 
+
++ Link to Main PDF File:
+
+https://github.com/TZstatsADS/Fall2020-Project5-ads-fall2020-project5_group1/blob/master/doc/project5main.pdf
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
